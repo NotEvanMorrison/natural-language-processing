@@ -18,7 +18,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram For My Project](https://github.com/user-attachments/assets/79a8277b-74f3-4d65-aeaf-00fcf255b3aa)
 
 ## Video
 
@@ -30,7 +30,7 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[My Project Video](https://github.com/user-attachments/assets/768c1f7e-dd36-4e6e-96b1-de9fff1c8f54)
 
 ## Project Description
 
