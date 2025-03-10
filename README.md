@@ -34,8 +34,8 @@ Record a short video of your project to display here on your README. You can do 
 
 ## Project Description
 
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
+Our Translator is a simple english to spanish application designed to translate predefined English phrases into Spanish. The primary goal of this project is to provide users with an easy way to translate common phrases by utilizing predefined sentences. The goal of this project is to help users learn how to translate simple sentences by learning spanish vocabulary.
 
 ## NLP Techniques
 
-Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique. 
+We used our prompt() method to allow user interaction and choice in what is being printed out. Then we used the isInEglish() and returnSpanish() to have a way to look up the words we are trying to translate to allow a natural sentence to form. It is made in a way that looks natural to people so it will be easier to read and understand. Then our translateSentence() method breaks down the sentence into words to be able to be translated. These methods are necesary to allow us to properly traverse through our .txt files so the phrase can be translated.
